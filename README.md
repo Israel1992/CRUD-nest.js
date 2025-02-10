@@ -46,7 +46,7 @@ $ npm install
 ## Compile and run the project
 
 Debe tener una base de datos mongo y colocar la cadena de conexión en .env 
-Importar el archivo a su DB para tener el usuario Admin que permitira generar los tokens
+Importar el archivo "test.users.json" a su DB para tener el usuario Admin que permitira generar los tokens
 
 Datos del Usuarios Administrador
 {
